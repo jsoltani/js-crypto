@@ -1,0 +1,21 @@
+{
+    "name": "jsoltani/js-crypto",
+    "description": "Data encryption and decryption in php",
+    "type": "library",
+    "homepage": "https://github.com/jsoltani/js-crypto",
+    "license": "MIT",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Javad soltani",
+            "email": "j.soltani.it@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+      "classmap": ["src/"]
+    }
+}
