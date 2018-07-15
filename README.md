@@ -1,7 +1,7 @@
 # js-crypto
 php class to encryption and decryption
 
-#Requirements
+# Requirements
 js-crypto Requires PHP >= 7.0
 
 # Installation
